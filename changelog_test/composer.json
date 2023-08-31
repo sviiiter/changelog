@@ -1,0 +1,13 @@
+{
+    "name": "sviter/changelog",
+    "type": "project",
+    "authors": [
+        {
+            "name": "sviter"
+        }
+    ],
+    "require-dev": {
+        "marcocesarato/php-conventional-changelog": "^1.17"
+    },
+    "version": "1.0.1"
+}
