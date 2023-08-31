@@ -5,15 +5,6 @@ All notable changes in this file.
 <!--- END HEADER -->
 
 
-## [1.0.1](#) (2023-08-31)
-
-### Bug Fixes
-
-* Test a patch change [#https://11.ru/issues/123](#) ([8bd5fa](#), [4ca0b7](#))
-
-
----
-
 ## [1.0.0](#) (2023-08-31)
 
 ### Features

@@ -1,7 +1,7 @@
 <?php
 
 return [
-  'issueUrlFormat' => 'http/test.ru/issues/{{id}}',
+  'issueUrlFormat' => 'test.ru/issues/{{id}}',
   'root' => getcwd(),
   'path' => 'CHANGELOG.md',
   'headerTitle' => 'Changelog',
